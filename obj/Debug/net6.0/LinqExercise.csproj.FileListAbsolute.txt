@@ -1,0 +1,15 @@
+/Users/justinsimon/Desktop/repos/repos/LinqExercise/LinqExercise/obj/Debug/net6.0/LinqExercise.csproj.AssemblyReference.cache
+/Users/justinsimon/Desktop/repos/repos/LinqExercise/LinqExercise/obj/Debug/net6.0/LinqExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justinsimon/Desktop/repos/repos/LinqExercise/LinqExercise/obj/Debug/net6.0/LinqExercise.AssemblyInfoInputs.cache
+/Users/justinsimon/Desktop/repos/repos/LinqExercise/LinqExercise/obj/Debug/net6.0/LinqExercise.AssemblyInfo.cs
+/Users/justinsimon/Desktop/repos/repos/LinqExercise/LinqExercise/obj/Debug/net6.0/LinqExercise.csproj.CoreCompileInputs.cache
+/Users/justinsimon/Desktop/repos/repos/LinqExercise/LinqExercise/bin/Debug/net6.0/LinqExercise
+/Users/justinsimon/Desktop/repos/repos/LinqExercise/LinqExercise/bin/Debug/net6.0/LinqExercise.deps.json
+/Users/justinsimon/Desktop/repos/repos/LinqExercise/LinqExercise/bin/Debug/net6.0/LinqExercise.runtimeconfig.json
+/Users/justinsimon/Desktop/repos/repos/LinqExercise/LinqExercise/bin/Debug/net6.0/LinqExercise.dll
+/Users/justinsimon/Desktop/repos/repos/LinqExercise/LinqExercise/bin/Debug/net6.0/LinqExercise.pdb
+/Users/justinsimon/Desktop/repos/repos/LinqExercise/LinqExercise/obj/Debug/net6.0/LinqExercise.dll
+/Users/justinsimon/Desktop/repos/repos/LinqExercise/LinqExercise/obj/Debug/net6.0/refint/LinqExercise.dll
+/Users/justinsimon/Desktop/repos/repos/LinqExercise/LinqExercise/obj/Debug/net6.0/LinqExercise.pdb
+/Users/justinsimon/Desktop/repos/repos/LinqExercise/LinqExercise/obj/Debug/net6.0/LinqExercise.genruntimeconfig.cache
+/Users/justinsimon/Desktop/repos/repos/LinqExercise/LinqExercise/obj/Debug/net6.0/ref/LinqExercise.dll
